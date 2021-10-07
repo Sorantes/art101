@@ -1,0 +1,30 @@
+h1 {
+  color: white;
+  margin: 25px
+}
+
+div {
+  width:100px;
+  height:100px;
+  background-color:red;
+  border: 10px dotted purple;
+  margin: 20px;
+}
+p {
+  padding: 20px;
+  margin: 25px;
+}
+.dark {
+  background-color: black;
+  color: white;
+  }
+.light {
+  background-color: pink;
+  color: black;
+}
+#boogers {
+  color: green;
+}
+html {
+    background-color: teal;
+}
