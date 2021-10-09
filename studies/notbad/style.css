@@ -26,5 +26,14 @@ p {
   color: green;
 }
 html {
+    background-color: purple;
+    margin: 40px
+}
+body {
     background-color: teal;
+    border: 25px solid black;
+    margin: 100px;
+}
+.body:hover .div {
+  transform: translatex(100%);
 }
