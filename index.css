@@ -5,3 +5,28 @@ div {
   padding: 5px;
 
 }
+html {
+  background-color: cyan;
+}
+h1 {
+  color: black;
+  border-width: 25px
+  margin-left: 25px;
+  margin-right: 800px;
+}
+body {
+  border: yellow;
+}
+img {
+  border: magenta solid 5px;
+  justify-content: 800px;
+}
+main {
+  background-color: yellow;
+}
+ul {
+  padding: 25px;
+}
+li {
+  padding: 2px;
+}

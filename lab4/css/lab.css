@@ -1,0 +1,55 @@
+
+h1 {
+    background-color: red;
+    color: white;
+    height: 100px;
+    width: 200px;
+    border: dotted black;
+    margin-left: 40%;
+  }
+h2 {
+  background-color: white;
+  color: black;
+  margin-right: 90%;
+  border: dotted black;
+}
+h3 {
+  background-color: white;
+color: black;
+margin-right: 90%;
+border: dotted black;
+}
+h4 {
+  background-color: white;
+  color: black;
+  margin-right: 90%;
+  border: dotted black;
+}
+div {
+    background-color: cyan;
+    color: black;
+    margin: 30%;
+    border: dotted black;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 35%;
+}
+pre {
+  background-color: green;
+  color: white;
+  border: dotted black;
+  height: 150px;
+  width: 600px;
+  margin-left: 25%;
+}
+html {
+  background-color: pink;
+}
+body {
+  border: dotted magenta 10px;
+
+}
+#hope-this-works {
+  background-color: green;
+  color:white;
+}
