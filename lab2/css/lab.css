@@ -1,0 +1,22 @@
+h1 {
+  color: orange;
+  font-size: 200%;
+  font-family: "helvetic";
+}
+p {
+  color: green;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+.content {
+  background-color: lightblue;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: 5px dotted red;
+  font-size: 20px;
+}
+body {
+  background color: orange;
+}
