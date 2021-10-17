@@ -1,0 +1,17 @@
+#content {
+  background-color: cyan;
+  color: black;
+  margin-right: 50%;
+  margin-left: 2%;
+  border: solid black;
+}
+img {
+  margin-left: 55%;
+
+}
+div {
+  background-color: lightgreen;
+  border: solid black;
+  margin-right: 50%;
+  margin-left: 2%;
+}
