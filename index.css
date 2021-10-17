@@ -11,8 +11,8 @@ html {
 h1 {
   color: black;
   border-width: 25px
-  margin-left: 25px;
-  margin-right: 800px;
+  margin-left: 25%;
+  justify: 800px;
 }
 body {
   border: yellow;
@@ -26,7 +26,12 @@ main {
 }
 ul {
   padding: 25px;
+  margin-left: 40%;
 }
 li {
   padding: 2px;
+}
+
+img {
+  margin-left: 35%;
 }
