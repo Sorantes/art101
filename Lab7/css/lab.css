@@ -1,0 +1,42 @@
+#content {
+  background-color: purple;
+  color: white;
+  margin-left: 20%;
+  margin-right: 15%;
+  margin-top: 10%;
+  border: dotted orange 10px;
+  padding: 2%;
+
+}
+
+html {
+  background-color: black
+}
+
+p {
+  margin-left: 5%;
+  margin-left: 10%
+  font-family: cursive;
+}
+
+h2 {
+  margin-left: 3%;
+    font-family: fantasy;
+}
+
+h1 {
+  margin-left: 30%;
+  font-family: fantasy;
+}
+
+}
+body {
+  margin-left: 2%;
+  border: orange dotted 10px;
+}
+
+div{
+    margin-left: 2%;
+    font-family: cursive;
+    margin-bottom: 5%;
+}
