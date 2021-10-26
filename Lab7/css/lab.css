@@ -35,8 +35,13 @@ body {
   border: orange dotted 10px;
 }
 
-div{
-    margin-left: 2%;
-    font-family: cursive;
-    margin-bottom: 5%;
+
+}
+
+.image {
+  background-image: url("https://live.staticflickr.com/65535/51630535225_861580e28f_z.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px 50px;
+
 }
