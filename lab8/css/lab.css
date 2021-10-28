@@ -1,0 +1,44 @@
+html {
+    background-color: brown;
+  }
+
+body {
+    border: dotted black 10px;
+    background-color: beige;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5px;
+}
+
+
+.front {
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 35%;
+    margin-bottom: 3%;
+    padding: 3px;
+    border: dotted brown 4px;
+    font-family: cursive;
+    font-weight: bold 4px;
+}
+
+div {
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 3px;
+    border: dotted brown 4px;
+    font-family: cursive;
+  }
+
+  p {
+    margin-left: 15%;
+    margin-left: 15%;
+  }
+
+h2 {
+  margin-left: 15%;
+}
