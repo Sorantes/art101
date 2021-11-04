@@ -1,0 +1,46 @@
+#content {
+    background-color: papayawhip;
+    border: solid white 4px;
+    font-family: sans-serif;
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+html {
+  background-color: tan;
+}
+
+h1 {
+    margin-left: 25%;
+}
+
+h2 {
+    margin-left: 5%;
+}
+
+p {
+    margin-left: 10%;
+}
+
+#first {
+    color: white;
+    background-color: black;
+    padding: 2px;
+}
+
+#second {
+    color: white;
+    background-color: gold;
+    padding: 2px;
+}
+
+#third {
+    color: white;
+    background-color: red;
+    padding: 2px;
+}
+
+#my-button {
+    margin-left: 25%;
+}
