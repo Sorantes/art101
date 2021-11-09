@@ -1,0 +1,58 @@
+#content {
+    color: white;
+    background-color: black;
+    border: solid purple;
+    margin-left: 22%;
+    margin-right: 25%;
+    margin-top: 15%;
+}
+
+html {
+    background-color: darkblue;
+}
+
+h1 {
+    margin-left: 20%;
+    font-family: sans-serif;
+}
+
+h2 {
+    margin-left: 12%;
+    font-family: sans-serif;
+}
+
+p {
+  margin-left: 15%;
+}
+
+#first {
+    background-color:green;
+    color: white;
+
+
+}
+#two {
+    background-color: red;
+    color: white;
+
+}
+
+#third {
+    background-color: gold;
+    color: white;
+
+}
+
+#uno {
+    color: orange;
+}
+
+#dos {
+    color: orange;
+
+}
+
+#tres {
+    color: orange;
+
+}
