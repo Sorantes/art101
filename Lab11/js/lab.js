@@ -42,5 +42,11 @@ $("#tres").ready(function(){
   $("#third").click(function(){
     $("#tres").toggle("x");})});
 
-//change the css styling
-$("uno")
+//change css on a button through the action of another buttons
+$("#sneaky");
+sneakyEl = $("s#neaky");
+
+$("#victim");
+victimEl = $("#victim");
+
+$("sneaky").css("background-color" : "silver");
