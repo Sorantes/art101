@@ -1,0 +1,21 @@
+html {
+  background-color: lightblue;
+}
+
+#content {
+  background-color: papayawhip;
+  border: lightgreen solid 5px;
+  margin-left: 20%;
+  margin-right: 25%;
+  margin-top: 10%;
+}
+
+h1{
+margin-left: 5%;}
+
+h2{
+margin-left: 5%;}
+
+p {
+  margin-left: 5%;
+}

@@ -43,10 +43,3 @@ $("#tres").ready(function(){
     $("#tres").toggle("x");})});
 
 //change css on a button through the action of another buttons
-$("#sneaky");
-sneakyEl = $("s#neaky");
-
-$("#victim");
-victimEl = $("#victim");
-
-$("sneaky").css("background-color" : "silver");

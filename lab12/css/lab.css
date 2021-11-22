@@ -1,0 +1,68 @@
+#content {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    background-color: white;
+}
+
+
+#uno {
+    border: solid black 4px;
+    padding: 3px;
+    background-color: pink;
+
+}
+
+
+#dos {
+    border: solid black 4px;
+        padding: 3px;
+        background-color: white;
+}
+
+#tres {
+    border: solid black 4px;
+        padding: 3px;
+        background-color: pink;
+}
+
+#cuatro {
+  border: solid black 4px;
+      padding: 3px;
+      background-color: lightblue;
+}
+
+#primis {
+  border: solid black 4px;
+      padding: 3px;
+      background-color: lightblue;
+}
+
+#button {
+    background-color: lightgreen;
+    border: solid 2px red;
+}
+
+#output {
+    background-color: white;
+    color: black
+    border: solid gold 10px;
+    font-family: cursive;
+    font-style: bold;
+
+}
+
+html {
+    background-color: papayawhip;
+}
+
+h1 {
+  margin-left: 5%;
+}
+h2 {
+  margin-left: 5%;
+}
+
+p {
+  margin-left: 5%;
+}
