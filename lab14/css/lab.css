@@ -1,0 +1,30 @@
+.pink {
+  background-color: pink;
+  padding: 3px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+  padding: 3px;
+}
+
+#content {
+  border: solid red 4px;
+}
+
+h1 {
+  margin-left: 5%;
+}
+
+h2 {
+  margin-left: 5%;
+}
+
+p {
+  margin-left: 5%;
+}
+
+img {
+  border: red solid 3px;
+}
