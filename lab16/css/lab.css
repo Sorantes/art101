@@ -1,0 +1,28 @@
+#content {
+    background-color: pink;
+    color: white;
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-right: 30%;
+    border: dotted 4px papayawhip;
+    font-family: cursive;
+    padding: 2px;
+}
+
+
+html {
+  background-color: plum;
+}
+
+
+h1 {
+  margin-left: 21%;
+}
+
+h2 {
+  margin-left: 5%;
+}
+
+p {
+  margin-left: 5%;
+}
